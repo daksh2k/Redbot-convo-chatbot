@@ -4,3 +4,4 @@ models/reddit/model.ckpt-4735000.meta
 models/reddit/config.pkl
 models/reddit/chars_vocab.pkl
 models/reddit/checkpoint
+models/reddit/.DS_Store
