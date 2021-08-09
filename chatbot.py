@@ -17,7 +17,7 @@ from random import uniform
 from os import system
 from responses import *
 
-import pylog
+# import pylog
 
 import warnings
 warnings.filterwarnings("ignore")

@@ -1,7 +1,2 @@
-models/reddit/model.ckpt-4735000.index
-models/reddit/model.ckpt-4735000.data-00000-of-00001
-models/reddit/model.ckpt-4735000.meta
-models/reddit/config.pkl
-models/reddit/chars_vocab.pkl
-models/reddit/checkpoint
-models/reddit/.DS_Store
+models
+__pycache__
